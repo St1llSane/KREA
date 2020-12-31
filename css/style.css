@@ -921,7 +921,7 @@ body{
     margin-bottom: 25px;
   }
   .footer__socials-text{
-    text-align: center;
+    text-align: left;
   }
 }
 @media(max-width: 560px){
